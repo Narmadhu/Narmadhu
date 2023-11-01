@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Narmadhu
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m will be learning Backend
 
 <!---
 Narmadhu/Narmadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
